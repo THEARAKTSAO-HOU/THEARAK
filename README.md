@@ -1,5 +1,5 @@
 Introduction
-Hello! My name is [Your Name], and I am a Junior Analyst specializing in data analysis and visualization, particularly within the e-commerce sector. With a strong foundation in analytical tools and methodologies, I am committed to translating complex data into actionable insights that drive business growth and inform strategic decision-making.
+Hello! My name is KUCHKUNTHEARAK HOU, and I am a Junior Analyst specializing in data analysis and visualization, particularly within the e-commerce sector. With a strong foundation in analytical tools and methodologies, I am committed to translating complex data into actionable insights that drive business growth and inform strategic decision-making.
 
 Professional Overview
 Title: Junior Analyst

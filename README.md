@@ -1,5 +1,23 @@
-My name is KUCHKUNTHEARAK HOU, I GO by Thearak Tsao-Hou and I'm excited to join the team as a Junior Analyst. I have a strong background in e-commerce data analysis, with experience in turning complex data into strategic insights that support decision-making. I'm skilled in tools like Tableau, SQL, and Excel, which I’ve used extensively for visualizing and analyzing business performance, profitability, and return trends.
+Introduction
+Hello! My name is [Your Name], and I am a Junior Analyst specializing in data analysis and visualization, particularly within the e-commerce sector. With a strong foundation in analytical tools and methodologies, I am committed to translating complex data into actionable insights that drive business growth and inform strategic decision-making.
 
-I’m passionate about creating clear, impactful dashboards and telling stories through data that can lead to meaningful improvements. I enjoy collaborating with teams to solve problems and am always eager to learn and take on new challenges. I look forward to contributing to our projects, sharing my knowledge, and growing with the team.
+Professional Overview
+Title: Junior Analyst
+Industry Focus: E-commerce and data analytics
+Core Skills:
+Data Visualization (Tableau)
+Data Preparation and Management (SQL, Excel)
+Profitability and Return Analysis
+Dashboard Design and Storytelling
+Strategic Data-Driven Recommendations
+Experience & Achievements
+I have successfully led and contributed to various projects involving profitability analysis, return rate evaluations, and the development of interactive dashboards for presenting critical business insights. My ability to communicate findings effectively and collaborate within cross-functional teams has consistently resulted in high-quality, impactful outcomes. I am adept at meeting deadlines and tailoring data stories to suit different audiences, ensuring that complex data becomes accessible and actionable.
 
-Please feel free to reach out—I’m always open to connecting and collaborating!# THEARAK
+My Work Philosophy
+I believe that data should not only inform but inspire action. I am passionate about creating visually compelling, intuitive dashboards and reports that not only provide information but also foster strategic thinking and proactive problem-solving. Continuous learning and adaptability are cornerstones of my approach, as I aim to stay ahead in the ever-evolving field of data analytics.
+
+Contact Information
+LinkedIn: [Insert LinkedIn URL]
+GitHub: [Insert GitHub URL]
+Email: [Insert Email]
+Thank you for taking the time to learn a bit about me! I look forward to opportunities to contribute, collaborate, and grow as a professional in data analytics.

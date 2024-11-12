@@ -1,4 +1,4 @@
-Introduction
+
 Hello! My name is KUCHKUNTHEARAK HOU, and I am a Junior Analyst specializing in data analysis and visualization, particularly within the e-commerce sector. With a strong foundation in analytical tools and methodologies, I am committed to translating complex data into actionable insights that drive business growth and inform strategic decision-making. On the other hand, I am :
 
 Collaborative Spirit: I thrive in team environments and believe that the best results come from working together, exchanging ideas, and supporting one another to achieve shared goals. I approach every project with a cooperative mindset and am always eager to contribute to team success.
